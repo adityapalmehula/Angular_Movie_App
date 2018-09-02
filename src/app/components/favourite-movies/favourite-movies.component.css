@@ -1,0 +1,16 @@
+/* jumbotron for favourite movie heading */
+.jumbotron
+{
+	margin: 30px;
+}
+/* jumbotron heading text modification  */
+.heading{
+	text-transform:uppercase;
+	font-weight:bold;
+	font-family: "Times New Roman", Times, serif;
+	height:20px;
+}
+/* search movie card modification  */ 
+.card-title{
+	font-weight: bold;
+}

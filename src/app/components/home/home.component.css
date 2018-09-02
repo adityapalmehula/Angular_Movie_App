@@ -1,0 +1,13 @@
+.card-title{
+white-space: nowrap;
+overflow: hidden;
+}
+.select
+{
+	font-weight:bold;
+	font-family: "Times New Roman", Times, serif;
+	padding: 5rem;
+}
+.card-title{
+	font-weight: bold;
+}
